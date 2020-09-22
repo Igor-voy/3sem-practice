@@ -32,3 +32,13 @@
 [Задание 2.3](https://github.com/Igor-voy/3sem-practice/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.3.pdf)
 
 **Сделать стендовый доклад по одной из тем практических семинаров.**
+
+*Задание семинаров:*
+
+[Тема 3: задание 1](https://github.com/Igor-voy/3sem-practice/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%203%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.pdf)
+
+**Сделать таблицу 10 языков программирования**
+
+[Тема 3: задание 2](https://github.com/Igor-voy/3sem-practice/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%203%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.pdf)
+
+**Сделать таблицу 10 сред программирования**
